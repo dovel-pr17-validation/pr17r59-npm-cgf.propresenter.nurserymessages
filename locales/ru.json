@@ -1,0 +1,41 @@
+{
+  "app": {
+    "title": "Сообщения из детской комнаты",
+    "connectHint": "Введите адрес, чтобы загрузить сообщения.",
+    "editingAddress": "Адрес изменяется.",
+    "previousConnection": "Предыдущее подключение по-прежнему активно.",
+    "dismissNotification": "Закрыть уведомление",
+    "invalidUrl": "Введите адрес сервера HTTP или HTTPS без учётных данных, строки запроса или фрагмента.",
+    "loading": "Загрузка...",
+    "enterProPresenterUrl": "Введите подключение к ProPresenter"
+  },
+  "message-list": {
+    "retry": "Повторить",
+    "connecting": "Подключение к ProPresenter...",
+    "connected": "Подключено к ProPresenter.",
+    "reconnecting": "Соединение потеряно. Повторное подключение... Отображаемые сообщения могут быть устаревшими.",
+    "empty": "Нет доступных сообщений.",
+    "errors": {
+      "failed-to-connect": "Не удалось подключиться к ProPresenter. Проверьте информацию о подключении.",
+      "unknown-error": "Произошла непредвиденная ошибка: {{error}}.",
+      "failed-to-show": "Не удалось показать сообщение. Попробуйте еще раз.",
+      "failed-to-hide": "Не удалось скрыть сообщение. Попробуйте еще раз."
+    },
+    "success": {
+      "message-shown": "Сообщение успешно отображено.",
+      "message-shown-with-details": "Сообщение \"{{message}}\" отображается.",
+      "message-hidden": "Сообщение успешно скрыто."
+    }
+  },
+  "message-item": {
+    "managed-token": "Настроено в ProPresenter",
+    "preview": "Предпросмотр сообщения",
+    "on-screen": "На экране",
+    "show": "Показать",
+    "show-again": "Показать снова",
+    "hide": "Скрыть"
+  },
+  "footer": {
+    "version": "Версия {{version}}"
+  }
+}
